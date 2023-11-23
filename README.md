@@ -6,9 +6,9 @@
 - все иконки представлены в векторном формате.
 
 ## Технологии:
-<img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>&nbsp;
-<img src="https://img.shields.io/badge/BEM-18d0ff?style=for-the-badge&logo=bem&logoColor=white" alt="BEM"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-red?logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" alt="CSS3"/>&nbsp;
+<img src="https://img.shields.io/badge/BEM-18d0ff?logo=bem&logoColor=white" alt="BEM"/>&nbsp;
 
 ## Функциональные требования:
 &nbsp; :heavy_check_mark: Соблюдение семантической верстки <br>
